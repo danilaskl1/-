@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileTest3.MainPage"
+             Title="Alarm">
+
+    <StackLayout>
+        <Button Text="Add" HorizontalOptions="Start" VerticalOptions="Center" TextColor="White" BorderWidth="5" BorderColor="White" BackgroundColor="#2196F3" Clicked="OnButtonClick"/>
+
+        <ListView x:Name="AlarmView"
+            ItemsSource="{Binding Alarms}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell TextColor="Black" Text="{Binding time}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+
+</ContentPage>

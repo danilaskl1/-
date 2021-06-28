@@ -1,0 +1,15 @@
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\AddAlarm.xaml.g.cs
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.AssemblyInfoInputs.cache
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.AssemblyInfo.cs
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.csproj.CoreCompileInputs.cache
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.dll
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\ref\MobileTest3.dll
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.pdb
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\bin\Debug\netstandard2.0\MobileTest3.deps.json
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\bin\Debug\netstandard2.0\MobileTest3.dll
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\bin\Debug\netstandard2.0\ref\MobileTest3.dll
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\bin\Debug\netstandard2.0\MobileTest3.pdb
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VisualStudioPrograms\MobileTest3\MobileTest3\MobileTest3\obj\Debug\netstandard2.0\MobileTest3.csproj.AssemblyReference.cache
